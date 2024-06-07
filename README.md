@@ -2,7 +2,9 @@
 📍 **Hyderabad, India**  
 📧 **Email:** [mriganksingh92@gmail.com](mailto:mriganksingh92@gmail.com)  
 🔗 **LinkedIn:** [mriganksingh92](https://linkedin.com/in/mriganksingh92)  
-👨‍💻 **GitHub:** [mriganksingh92](https://github.com/mriganksingh92)
+👨‍💻 **GitHub:** [mriganksingh92](https://mriganksingh92.github.io/mriganksingh92/)
+📊 **Projects:** [mriganksingh92](https://mriganksingh92.github.io/mriganksingh92/)
+
 ## 🌟 About Me
 Currently working as a Design Engineer at BHEL, I am passionate about transitioning into the field of Data Science. My strong foundation in mechanical engineering, coupled with hands-on experience in machine learning, equips me with a unique perspective and skill set to tackle complex challenges in data science.
 
