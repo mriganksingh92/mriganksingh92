@@ -16,34 +16,34 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
  - Implementation of design changes post design calculations and analytical modelling as per project requirements
  - Provide support for manufacturing deviations and assessment of technical offers by vendors
 
-   *Project: Fault Detection in Industrial Steam Turbine  (Dec 2023)*
+   *Data Science Project: Fault Detection in Industrial Steam Turbine  (Dec 2023)*
     - Generated steam turbine dataset using DCS and SAP for BFP Drive Turbine model commonly supplied.
-    - Utilized t-SNE to map high-dimensional turbine operational data to two-dimensional space
-    - Applied K-means clustering to distinguish normal and faulty operational states of steam turbine
-    - Implemented SMOTE to handle data imbalance, creating robust training data to enhance model performance
-    - Employed XGBoost algorithm for multi-class fault classification in the steam turbine time series data
-    - Achieved 97% model accuracy to provide early warnings before potential turbine failures
+    - Utilized **t-SNE** to map high-dimensional turbine operational data to two-dimensional space
+    - Applied **K-means** clustering to distinguish normal and faulty operational states of steam turbine
+    - Implemented **SMOTE** to handle data imbalance, creating robust training data to enhance model performance
+    - Employed **XGBoost** algorithm for **multi-class fault classification** in the steam turbine time series data
+    - Achieved **97% model accuracy** to provide early warnings before potential turbine failures
 
 ### Edison Engineer, GE Transportation
 ***General Electric, JFWTC, Bangalore*** *(Jul 2015 - Oct 2016)*  
-- Developed and implemented analytical solutions in MATLAB to assess rotor bar deflection and stress under combined bending and thermal stress conditions, enhancing predictive accuracy for complex stress phenomena.
+- Developed and implemented analytical solutions in **MATLAB** to assess rotor bar deflection and stress under combined bending and thermal stress conditions, enhancing predictive accuracy for complex stress phenomena.
 
 ## 📊 Projects
 
 **Sentiment Analysis of Disaster Tweets**, *Kaggle* *(May 2024)* 
-- Developed a binary classification model to distinguish disaster-related tweets using a dataset of 10,000 labelled tweets 
-- Performed text pre-processing: tweet cleaning, missing values, stemming etc. to prepare raw tweet data
-- Evaluated performance of different models like Bag-of-Words, Naïve Bayes, RNN, LSTM, Transformers and developed a custom Ensemble model utilizing multiple transformer models for final predictions after fine-tuning.
-- Achieved F1 score of 0.8443 on competition test set, securing a global leaderboard rank 31 out of ~ 900 teams
+- Developed a **binary classification model** to distinguish disaster-related tweets using a dataset of 10,000 labelled tweets 
+- Performed **text pre-processing**: tweet cleaning, missing values, stemming etc. to prepare raw tweet data
+- Evaluated performance of different models like **Bag-of-Words, Naïve Bayes, RNN, LSTM, Transformers** and developed a **custom Ensemble mode**l utilizing multiple transformer models for final predictions after fine-tuning.
+- Achieved F1 score of 0.8443 on competition test set, securing a global leaderboard **rank 31** out of ~ 900 teams
 
 **House Price Prediction using Regression**, *Kaggle*  *(May 2024)*  
 - Developed a housing price prediction model using Ames Housing dataset evaluated on RMSE metric 
-- Conducted thorough Exploratory Data Analysis to gain insights into features - sale price relationship.
+- Conducted thorough **Exploratory Data Analysis** to gain insights into features - sale price relationship.
 - Performed data pre-processing by data cleaning, handling missing values, feature scaling etc.
-- Performed Feature Engineering by creating new features to improve model predictive capabilities
-- Evaluated various algorithms including GLM, Ridge, Lasso, ElasticNet, XGBoost, LightGBM
-- Performed Hyperparameter Tuning using GridSearchCV to get optimized models for final predictions
-- Combined best performing algorithms into a Voting Regressor and created a Weighted Average Ensemble model, achieving an RMSE of 0.12218
+- Performed **Feature Engineering** by creating new features to improve model predictive capabilities
+- Evaluated various algorithms including **GLM, Ridge, Lasso, ElasticNet, XGBoost, LightGBM**
+- Performed **Hyperparameter Tuning** using **GridSearchCV** to get optimized models for final predictions
+- Combined best performing algorithms into a **Voting Regressor** and created a **Weighted Average Ensemble** model, achieving an RMSE of 0.12218
 
 ## 🎓 Education
 
@@ -59,6 +59,6 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 ## 🏆 Achievements
 
-- Best Executive Award among BHEL 46th Batch Engineer Trainees for exemplary performance in 1st year (2017)
-- Awarded IIT Kanpur Excellence Award in Art & Cultural Activities for outstanding work (2015)
-- Received Academic Excellence Award in Mechanical Engineering department IIT Kanpur (2012-13)
+- **Best Executive Award** among BHEL 46th Batch Engineer Trainees for exemplary performance in 1st year (2017)
+- Awarded **IIT Kanpur Excellence Award in Art** & Cultural Activities for outstanding work (2015)
+- Received **Academic Excellence Award** in Mechanical Engineering department IIT Kanpur (2012-13)
