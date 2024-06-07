@@ -16,7 +16,7 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
  - Implementation of design changes post design calculations and analytical modelling as per project requirements
  - Provide support for manufacturing deviations and assessment of technical offers by vendors
 
-   Data Science Project: **Fault Detection in Industrial Steam Turbine**  *(Dec 2023)*
+   Data Science Project: ***Fault Detection in Industrial Steam Turbine***  *(Dec 2023)*
     - Generated steam turbine dataset using DCS and SAP for BFP Drive Turbine model commonly supplied.
     - Utilized **t-SNE** to map high-dimensional turbine operational data to two-dimensional space
     - Applied **K-means** clustering to distinguish normal and faulty operational states of steam turbine
