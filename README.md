@@ -3,7 +3,8 @@
 📧 **Email:** [mriganksingh92@gmail.com](mailto:mriganksingh92@gmail.com)  
 🔗 **LinkedIn:** [mriganksingh92](https://linkedin.com/in/mriganksingh92)  
 👨‍💻 **GitHub:** [mriganksingh92](https://mriganksingh92.github.io/mriganksingh92/)
-📊 **Projects:** [mriganksingh92](https://mriganksingh92.github.io/mriganksingh92/)
+
+<!--  📊 **Projects:** [mriganksingh92](https://mriganksingh92.github.io/mriganksingh92/) -->
 
 ## 🌟 About Me
 Currently working as a Design Engineer at BHEL, I am passionate about transitioning into the field of Data Science. My strong foundation in mechanical engineering, coupled with hands-on experience in machine learning, equips me with a unique perspective and skill set to tackle complex challenges in data science.
@@ -32,13 +33,13 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 ## 📊 Projects
 
-**Sentiment Analysis of Disaster Tweets**, *Kaggle* *(May 2024)* 
+**Sentiment Analysis of Disaster Tweets**, *Kaggle* *(May 2024)* [🔗](https://github.com/mriganksingh92/Projects/tree/bb70fa04d77c9c12c0929a010d5bdc859af95185/Tweet%20Sentiment%20Analysis) 
 - Developed a **binary classification model** to distinguish disaster-related tweets using a dataset of 10,000 labelled tweets 
 - Performed **text pre-processing**: tweet cleaning, missing values, stemming etc. to prepare raw tweet data
 - Evaluated performance of different models like **Bag-of-Words, Naïve Bayes, RNN, LSTM, Transformers** and developed a **custom Ensemble mode**l utilizing multiple transformer models for final predictions after fine-tuning.
 - Achieved F1 score of 0.8443 on competition test set, securing a global leaderboard **rank 31** out of ~ 900 teams
 
-**House Price Prediction using Regression**, *Kaggle*  *(May 2024)*  
+**House Price Prediction using Regression**, *Kaggle*  *(May 2024)* [🔗](https://github.com/mriganksingh92/Projects/tree/bb70fa04d77c9c12c0929a010d5bdc859af95185/House%20Price%20Regression)
 - Developed a housing price prediction model using Ames Housing dataset evaluated on RMSE metric 
 - Conducted thorough **Exploratory Data Analysis** to gain insights into features - sale price relationship.
 - Performed data pre-processing by data cleaning, handling missing values, feature scaling etc.
