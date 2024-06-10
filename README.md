@@ -51,7 +51,7 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 **B. Tech - M. Tech (Dual Degree) in Mechanical Engineering**, *IIT Kanpur*
 
-   CGPA: P.G. : 9.7  |  U.G. : 8.5
+   CGPA: **P.G.** : 9.7  |  **U.G.** : 8.5
     
 ## 📜 Certifications 
 
