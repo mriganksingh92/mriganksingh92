@@ -49,15 +49,17 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 ## 🎓 Education
 
-**B. Tech - M. Tech (Dual Degree) in Mechanical Engineering**, *IIT Kanpur*  : *CGPA: P.G.: 9.7, U.G.: 8.5*
+**B. Tech - M. Tech (Dual Degree) in Mechanical Engineering**, *IIT Kanpur*
+
+   CGPA: P.G. : 9.7  |  U.G. : 8.5
     
 ## 📜 Certifications 
 
-- **Machine Learning Specialization**, *DeepLearning.AI*  
+- **Machine Learning Specialization**, *DeepLearning.AI*  [🔗](https://github.com/mriganksingh92/certifications/blob/ca831cd29d2f8d145cee0a5a37e215681a99f63d/ML%20Specialization.pdf) 
 - **Deep Learning Specialization**, *DeepLearning.AI*
-- **Mathematics for Machine Learning & Data Science Specialization**, *DeepLearning.AI*  
-- **Data Science Math Skills**, *Duke University*
-- **Introduction to Statistics**, *Stanford University*
+- **Mathematics for Machine Learning & Data Science Specialization**, *DeepLearning.AI*  [🔗](https://mriganksingh92.github.io/mriganksingh92/)  
+- **Data Science Math Skills**, *Duke University*  [🔗](https://github.com/mriganksingh92/certifications/blob/ca831cd29d2f8d145cee0a5a37e215681a99f63d/duke%20DS%20maths.pdf)
+- **Introduction to Statistics**, *Stanford University*  [🔗](https://github.com/mriganksingh92/certifications/blob/ca831cd29d2f8d145cee0a5a37e215681a99f63d/stanford%20%20stats.pdf)
 
 ## 🏆 Achievements
 
