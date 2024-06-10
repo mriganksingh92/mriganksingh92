@@ -63,6 +63,6 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 ## 🏆 Achievements
 
-- **Best Executive Award** among BHEL 46th Batch Engineer Trainees for exemplary performance in 1st year (2017)
-- Awarded **IIT Kanpur Excellence Award in Art** & Cultural Activities for outstanding work (2015)
-- Received **Academic Excellence Award** in Mechanical Engineering department IIT Kanpur (2012-13)
+- **Best Executive Award** among BHEL 46th Batch Engineer Trainees for exemplary performance in 1st year *(2017)*
+- Awarded **IIT Kanpur Excellence Award in Art** & Cultural Activities for outstanding work *(2015)*
+- Received **Academic Excellence Award** in Mechanical Engineering department IIT Kanpur *(2012-13)*
