@@ -15,44 +15,45 @@ Throughout my career, I have shown a keen ability to quickly learn and effective
 
 ### Design Engineer, Steam Turbine Engineering
 ***Bharat Heavy Electricals Limited, HPEP Hyderabad***  *(Oct 2016 - Present)*
+
+   - Data Science Project: ***Fault Detection in Industrial Steam Turbine***  *(Dec 2023)*
+      - Generated steam turbine dataset using Distributed Control System for BFP Drive Turbine model.
+      - Employed **t-SNE** to map high-dimensional turbine operational data to two-dimensional space.
+      - Utilized **K-means** clustering to distinguish normal and faulty operational states of steam turbine
+      - Implemented **SMOTE** to handle data imbalance, enhancing robustness of training data & improving model performance
+      - Applied **XGBoost** algorithm for **multi-class fault classification** in the steam turbine time series data, achieving **97% model accuracy** and providing early warnings before potential turbine failures
+
  - Design of Turbine Components for Utility and BFP Drive turbines as per BHEL design guidelines
  - Implementation of design changes post design calculations and analytical modelling as per project requirements
  - Provide support for manufacturing deviations and assessment of technical offers by vendors
 
-   Data Science Project: ***Fault Detection in Industrial Steam Turbine***  *(Dec 2023)*
-    - Generated steam turbine dataset using DCS and SAP for BFP Drive Turbine model commonly supplied.
-    - Utilized **t-SNE** to map high-dimensional turbine operational data to two-dimensional space
-    - Applied **K-means** clustering to distinguish normal and faulty operational states of steam turbine
-    - Implemented **SMOTE** to handle data imbalance, creating robust training data to enhance model performance
-    - Employed **XGBoost** algorithm for **multi-class fault classification** in the steam turbine time series data
-    - Achieved **97% model accuracy** to provide early warnings before potential turbine failures
 
 ### Edison Engineer, GE Transportation
 ***General Electric, JFWTC, Bangalore*** *(Jul 2015 - Oct 2016)*  
-- Developed and implemented analytical solutions in **MATLAB** to assess rotor bar deflection and stress under combined bending and thermal stress conditions, enhancing predictive accuracy for complex stress phenomena.
+- Engineered and implemented analytical solutions in **MATLAB** to assess rotor bar deflection and stress under combined bending and thermal stress conditions, enhancing predictive accuracy for complex stress phenomena.
 
 ## 📊 Projects
 
 **Sentiment Analysis of Disaster Tweets**, *Kaggle* *(May 2024)* [🔗](https://github.com/mriganksingh92/Projects/tree/bb70fa04d77c9c12c0929a010d5bdc859af95185/Tweet%20Sentiment%20Analysis) 
 - Developed a **binary classification model** to distinguish disaster-related tweets using a dataset of 10,000 labelled tweets 
 - Performed **text pre-processing**: tweet cleaning, missing values, stemming etc. to prepare raw tweet data
-- Evaluated performance of different models like **Bag-of-Words, Naïve Bayes, RNN, LSTM, Transformers** and developed a **custom Ensemble mode**l utilizing multiple transformer models for final predictions after fine-tuning.
-- Achieved F1 score of 0.8443 on competition test set, securing a global leaderboard **rank 31** out of ~ 900 teams
+- Evaluated different models like **Logistic Regression, Naïve Bayes, RNN, LSTM, Transformers** (DistilBERT,RoBERTa etc.) and built a **custom Ensemble model** utilizing multiple transformer models for final predictions after fine-tuning.
+- Achieved F1 score of 0.8443 on competition test set, securing a global leaderboard **rank 31** out of ~ 900 participants
 
 **House Price Prediction using Regression**, *Kaggle*  *(May 2024)* [🔗](https://github.com/mriganksingh92/Projects/tree/bb70fa04d77c9c12c0929a010d5bdc859af95185/House%20Price%20Regression)
 - Developed a housing price prediction model using Ames Housing dataset evaluated on RMSE metric 
-- Conducted thorough **Exploratory Data Analysis** to gain insights into features - sale price relationship.
-- Performed data pre-processing by data cleaning, handling missing values, feature scaling etc.
-- Performed **Feature Engineering** by creating new features to improve model predictive capabilities
-- Evaluated various algorithms including **GLM, Ridge, Lasso, ElasticNet, XGBoost, LightGBM**
-- Performed **Hyperparameter Tuning** using **GridSearchCV** to get optimized models for final predictions
-- Combined best performing algorithms into a **Voting Regressor** and created a **Weighted Average Ensemble** model, achieving an RMSE of 0.12218
+- Delved into thorough **Exploratory Data Analysis** to gain insights into features - sale price relationship.
+- Executed **data pre-processing** by data cleaning, handling missing values, feature scaling etc.
+- Engineered new features through **Feature Engineering** to enhance the predictive capabilities of the model.
+- Explored various algorithms including **GLM, Ridge, Lasso, ElasticNet, XGBoost, LightGBM** and assessed their suitability.
+- Performed **Hyperparameter Tuning** using **GridSearchCV** to attain optimized models for final predictions.
+- Assembled the best performing algorithms into a **Voting Regressor** and devised a **Weighted Average Ensemble** model, achieving an **RMSE** of 0.12218
 
 ## 🎓 Education
 
 **B. Tech - M. Tech (Dual Degree) in Mechanical Engineering**, *IIT Kanpur*
 
-   CGPA: **P.G.** : 9.7  |  **U.G.** : 8.5
+   CGPA: **P.G.** : 9.7,  **U.G.** : 8.5
     
 ## 📜 Certifications 
 
